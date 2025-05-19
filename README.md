@@ -1,4 +1,4 @@
-# QR Code Generator
+# [QR Code Generator](https://samuelgjomarkaj.github.io/QRCode/)
 
 ## Overview
 This is a simple web-based QR Code Generator that allows users to input a URL and generate a corresponding QR code. Users can also download the generated QR code and reset the input field.
